@@ -123,7 +123,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kannada" tvg-logo="" tvg-id="", NewsFirst Kannada
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770107325/ei/XV2BaZu4FZuMlu8PzZ2UwA8/ip/128.24.161.200/id/9RTeslTjggw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oS9e6WkFqM4X2z3XDtFoD9ZwGsy4VdCd_Ek44loVsRqItr7pVCUnxoOsDBA2ZwaVhBZFGdZYar/spc/q5xjPMCDkjhsBYXQo_geidymcjD26DSf0wWW1p3JwJ9I3fKYDff_Z3GxTeG-Q4LzDO0CLA/vprv/1/go/1/ns/nDIEtC9kT7c3WQqeELjMQXES/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/tvaY35i_zSxWRg6/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIga6QtGbCdSmC2Cnj8ex8SyGbz2TDIshM3n9mMpvshvZMCIAO3smo_ES_0siBG4_Prfg9pneA_sLrFEHXHHX_FAyYA/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Gujarati" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR8E478gf4F3e11eXaV1Th88zd2m4OEOp77VpnE1A=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TV9 Gujarati
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -474,7 +474,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", Geo News Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770193498/ei/-q2Cab3aFs3DkucP-teHwQE/ip/172.214.45.245/id/9mXKvBYgZ_E.114/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AW-iu_p0dcK1vJXcjUTG6Lk_EjGGckpRD5BHNOBHs0w4XBjBnalD-pbSBvPR1ihF2qWlldoyohAcmeQV/spc/q5xjPIflNhFSilu74JbgqTr1HyZqf-QcHYJE1fkujOBOIQ_aHcng0TCJnFlHbCVTD1Ekog/vprv/1/go/1/ns/dpV12V9KWw8d1cnwceDFIUUS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/5wl0c4wpz79NHmP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgT4YMIanZUNhBrPxCovdg0mSc2zvcSpi5QQlPhJGi_D0CIQCNi093fe03pBc2_cBAvIrmODfZFBMc5H8SP7PsIZ2KFg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
