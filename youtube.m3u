@@ -663,7 +663,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Webcam" tvg-logo="" tvg-id="", Ski Panorama
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782468121/ei/ufk9ao24NaGuzLUPhM6b4Qw/ip/57.154.13.251/id/2C7vrUAIfu4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEU8i6s5vgm0IGX79geN3mhY6P-EQtVKXkj2PFhATPVYIpoLLzslXdX3f7Y6Vgt_man1JYFTLRBY/spc/SQ-umpVUUUVtjPC7UiPG6QdLpBoOtCPZNE0ZOiHt8EgkALsgpRg6IWJTlJsiN-b5ABD4fQ/vprv/1/go/1/ns/LrxUSSsmv_yXNktmuCLyOPYW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51946838%2C51987687/dover/11/n/n-v7z9N_eFrwX_fxH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgWgmuo-kLf4GtAZP2Wp4n9YiYCjoLJ_Jm3vFKZCRvtigCIQDE2efZOf-eWxKPzFZ5qYBFxZthjSwGnN59eywWv8UFWA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/S3Ob883.png" tvg-id="", Summer Mix 2023
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
